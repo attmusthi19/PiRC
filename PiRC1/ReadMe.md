@@ -1,4 +1,4 @@
-# PRC1: Pi Ecosystem Token Design (Pi Request for Comment)
+# PiRC1: Pi Ecosystem Token Design (Pi Request for Comment)
 
 This repository presents the Ecosystem Token Design for Pi Network as a Pi Request for Comment (PRC). Given the foundational role of ecosystem tokens within the Pi ecosystem and the new approaches introduced here, this design is shared openly to enable community review, discussion, and iterative improvement.
 

@@ -19,3 +19,7 @@ Pi will review and consider community input from GitHub and high-level feedback 
 - **Design 2**
   - [`4-allocation design 2`](<4-allocation/4-allocation design 2.md>)
   - [`5-tge-state design 2`](<5-tge-state/5-tge-state design 2.md>)
+## Community Suggestion
+
+For long-term ecosystem stability, introducing a recommended minimum vesting period for ecosystem tokens could reduce early supply concentration risks and support fair distribution.
+Add suggestion about recommended vesting clarification

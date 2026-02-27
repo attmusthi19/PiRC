@@ -23,3 +23,6 @@ Pi will review and consider community input from GitHub and high-level feedback 
 
 For long-term ecosystem stability, introducing a recommended minimum vesting period for ecosystem tokens could reduce early supply concentration risks and support fair distribution.
 Add suggestion about recommended vesting clarification
+## Community Suggestion
+
+For long-term ecosystem stability, introducing a recommended minimum vesting period for ecosystem tokens could reduce early supply concentration risks and support fair distribution.
